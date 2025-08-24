@@ -24,6 +24,25 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
+**Apps I like and why:**
+1. Duolingo
+   - Regular reminders to users to complete their lesson of their day gives them motivation to learn and also helps them integrate language learning into their regular schedule
+   - Interactive learning method that makes language learning fun while still informative
+   - Add and stay connected with friends: learning is better when done with other people
+  
+ 2. TooGoodToGo
+    - Filter restaurants by likes, locations and pick-up times
+    - Users can favorite certain restaurants that they want to pick up rom
+    - Users can browse for restaurants out of their region
+   
+ 3. Depop
+    - Users can like, save and buy items and also chat with Sellers
+    - Sellers can boost their listing to be viewed by more people
+    - You can filter items by a large range of options
+
+  **App Idea:**
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
