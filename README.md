@@ -42,7 +42,7 @@ The following **required** functionality is completed:
 
   **App Idea:**
 
-Description: DigiRoomies is a one-stop app where a group of roommates can digitally organize and manage their household. 
+Description: DigiRoomies is a one-stop app where a group of roommates can digitally organize and manage their household.   
 Features:
 - Create a roommate group and apartment dashboard where the group can budget and create lists
 - Dedicated location to create, modify and regularly update guidelines and rules
