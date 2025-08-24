@@ -28,7 +28,7 @@ The following **required** functionality is completed:
 1. Duolingo
    - Regular reminders to users to complete their lesson of their day gives them motivation to learn and also helps them integrate language learning into their regular schedule
    - Interactive learning method that makes language learning fun while still informative
-   - Add and stay connected with friends: learning is better when done with other people
+   - Add and stay connected with friends
   
  2. TooGoodToGo
     - Filter restaurants by likes, locations and pick-up times
@@ -42,6 +42,12 @@ The following **required** functionality is completed:
 
   **App Idea:**
 
+Description: DigiRoomies is a one-stop app where a group of roommates can digitally organize and manage their household. 
+Features:
+- Create a roommate group and apartment dashboard where the group can budget and create lists
+- Dedicated location to create, modify and regularly update guidelines and rules
+- Setup a chore wheel, users assigned to chores will receive notifications prior to chore date
+- anonymous feedback posting so that members can freely express frustrations
 
 ## Notes
 
