@@ -55,7 +55,7 @@ No significant troubles beyond the process of navigating a new unfamiliar softwa
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [Kalki Srinivasan] 
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
