@@ -51,7 +51,7 @@ Features:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+No significant troubles beyond the process of navigating a new unfamiliar software!
 
 ## License
 
