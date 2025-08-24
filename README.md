@@ -15,9 +15,11 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<a href="https://imgur.com/a/kxYLDXv.gif">
-<img style="max-width:300px;" src="https://imgur.com/a/kxYLDXv">
-</a>
+<div>
+    <a href="https://www.loom.com/share/f9bb04b538074bd5b196ddf1447df0b3">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f9bb04b538074bd5b196ddf1447df0b3-b9f9d868952d6d9c-full-play.gif">
+    </a>
+  </div>
 
 
 ## App Brainstorming (Step 4)
