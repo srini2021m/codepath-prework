@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - A Colorful Introduction*
 
-Submitted by: **Your Name Here**
+Submitted by: **Kalki Srinivasan**
 
-**Name of your app** is an app that... [TODO] 
+**A Colorful Introduction** is an app where users can click a button to change the color of the app to a new randomized color. 
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -17,7 +17,8 @@ The following **required** functionality is completed:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+![](https://imgur.com/a/DOMYrhq.gif)
+
 
 ## App Brainstorming (Step 4)
 
