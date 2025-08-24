@@ -44,8 +44,8 @@ The following **required** functionality is completed:
 
 Description: DigiRoomies is a one-stop app where a group of roommates can digitally organize and manage their household.   
 Features:
-- Create a roommate group and apartment dashboard where the group can budget and create lists
-- Dedicated location to create, modify and regularly update guidelines and rules
+- Create a roommate group and apartment dashboard where the group can budget and create lists for their apartment
+- Dedicated location to create, modify and regularly update apartment guidelines and rules
 - Setup a chore wheel, users assigned to chores will receive notifications prior to chore date
 - anonymous feedback posting so that members can freely express frustrations
 
