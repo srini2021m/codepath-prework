@@ -1,4 +1,4 @@
-# Prework - A Colorful Introduction*
+# Prework - A Colorful Introduction
 
 Submitted by: **Kalki Srinivasan**
 
